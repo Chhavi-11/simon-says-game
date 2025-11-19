@@ -29,8 +29,7 @@ With each correct round, the level increases and the sequence gets longer.
 4.Works without sound (animation-only game)
  
 
- Done 
- end
+
  
  
 
